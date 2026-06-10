@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-O SentinelaOrbital é um sistema de monitoramento climático baseado em Arduino, desenvolvido para simulação em Tinkercad/Wokwi, que integra sensores locais e atuadores para emitir alertas visuais e sonoros em situações de risco climático.
+O SentinelaOrbital é um sistema de monitoramento climático baseado em Arduino, desenvolvido para simulação em Tinkercad, que integra sensores locais e atuadores para emitir alertas visuais e sonoros em situações de risco climático.
 
 O projeto busca oferecer uma solução simples e acessível para comunidades vulneráveis, transformando dados em ação preventiva.
 
@@ -86,7 +86,7 @@ As informações são apresentadas através de:
 
 ## Instruções de Execução
 
-1. Abra o projeto no Tinkercad ou Wokwi.
+1. Abra o projeto no Tinkercad.
 2. Carregue o código no Arduino.
 3. Inicie a simulação.
 4. Ajuste o potenciômetro para simular chuva.

@@ -110,10 +110,7 @@ As informações são apresentadas através de:
 - Arduino Uno
 - Linguagem C/C++
 - Tinkercad
-- Wokwi
 - Sensores Analógicos
-- Sistemas Embarcados
-- Edge Computing
 
 ---
 

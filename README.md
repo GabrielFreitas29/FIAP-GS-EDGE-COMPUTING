@@ -131,6 +131,5 @@ Projeto desenvolvido para a disciplina **EDGE COMPUTING & COMPUTER SYSTEMS** da 
 
 ## Repositório e Simulação
 
-- Simulação Tinkercad/Wokwi: https://www.tinkercad.com/things/jhmfi8btEm2-sentinelaorbital?sharecode=uRK4noRkB0Ud4ao_gNv5gKvGQ0gfekJaIeS270rwrxc
+- Simulação Tinkercad: https://www.tinkercad.com/things/jhmfi8btEm2-sentinelaorbital?sharecode=uRK4noRkB0Ud4ao_gNv5gKvGQ0gfekJaIeS270rwrxc
 - Link do vídeo explicativo: https://www.youtube.com/watch?v=lAFlxzMOKls
-- Vídeo demonstrativo: inserir link.
